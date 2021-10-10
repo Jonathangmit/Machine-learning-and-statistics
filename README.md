@@ -7,3 +7,6 @@ Set of of Git hub repository for the course, adding some SKlearn work I did over
 Added in the 2 x jupyter notebook file and added the requirements text file.
 # Week 3
 pandas notebook started , working down through the sheet making notes and playing with the different items
+numpy notebook worked on, using the real python examples
+# Week 4
+scikit learn started with the example from the class
