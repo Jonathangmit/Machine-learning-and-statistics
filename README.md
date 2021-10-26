@@ -10,3 +10,6 @@ pandas notebook started , working down through the sheet making notes and playin
 numpy notebook worked on, using the real python examples
 # Week 4
 scikit learn started with the example from the class
+scikit learn using Knearest neighbours used
+# Week 5
+Nearest neighbours finished (bar tidying)
