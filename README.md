@@ -13,3 +13,6 @@ scikit learn started with the example from the class
 scikit learn using Knearest neighbours used
 # Week 5
 Nearest neighbours finished (bar tidying)
+# Week 6/7
+Logistic regression and further tidying after much drama with the annoconda package, many thanks Ian.
+Starting looking at the t-test work also for the ANNOVA section of the module.
