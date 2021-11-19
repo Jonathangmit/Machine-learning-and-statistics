@@ -4,3 +4,11 @@ palmer penguins dataset this can be done using the following command.
 'pip install palmerpenguins'
 
 The notebook will then call the dataset when required.
+
+In not already installed to use the post function in scipy stats the pingoin package must be installed
+
+this can be done using the following command
+
+'pip install pingouin'
+
+Note this install can automatically update the scipy stats package.
