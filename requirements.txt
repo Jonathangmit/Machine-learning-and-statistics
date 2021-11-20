@@ -1,3 +1,5 @@
+NOTE 1
+
 In order to run the scikit learn notebook you will need to obtain the 
 palmer penguins dataset this can be done using the following command.
 
@@ -5,10 +7,35 @@ palmer penguins dataset this can be done using the following command.
 
 The notebook will then call the dataset when required.
 
-In not already installed to use the post function in scipy stats the pingoin package must be installed
+**************************************************************
+NOTE 2
+
+If not already installed to use the post function in scipy stats the pingoin package must be installed
 
 this can be done using the following command
 
 'pip install pingouin'
 
 Note this install can automatically update the scipy stats package.
+
+***************************************************************
+NOTE 3
+
+Once these packages are installed the entire notebook should run without intervention.
+
+***************************************************************
+
+Other files used
+
+wine.csv is the file of the date used for the machine learning study
+
+Diet.csv is the file of the data for the ANOVA study
+
+pengiuns.png is a catoon image of penguins
+
+KNN.png is an image showing a descriptive image of K nearest neighbours
+
+Capture.png is an image of a phenol ring
+
+winr data is the origional wine data file.
+
