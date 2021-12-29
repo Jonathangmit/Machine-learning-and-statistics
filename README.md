@@ -69,6 +69,8 @@ Working theough the diet data set performing prelimnary analysis on the diet dat
 Assing the suitability of the Data for anova study
 Perfomring the anova study on the diet v weight loss
 Perfomring anova on change in diet v change in BMI
+##### Final weeks
+Tidy up and additional commenting.
 
 # Conclusion
 
